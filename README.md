@@ -1,4 +1,4 @@
-# ⚡ Glance Glucose
+#  Glance Glucose
 
 **Checking your blood sugar shouldn't require unlocking your phone and opening an app.**
 
@@ -13,7 +13,7 @@ Built for myself as a Type 1 diabetic tired of checking my phone up to 70 times 
 
 Sensor (Bluetooth) → Libre 3 App → Abbott Cloud → LibreLinkUp API → This Script → Desktop Widget
 
-The Libre 3 app uploads each new reading to Abbott's cloud every minute. This script logs into that cloud through the same API the official LibreLinkUp companion app uses, fetches the latest reading every 60 seconds, and displays it in a colour-coded widget — green in range, red low, orange high.
+The Libre 3 app uploads each new reading to Abbott's cloud every minute. This script logs into that cloud through the same API the official LibreLinkUp companion app uses, fetches the latest reading every 60 seconds, and displays it in a colour-coded widget. Red low, green in-range, orange high.
 
 ## Features
 
@@ -45,4 +45,4 @@ Not affiliated with or endorsed by Abbott. This is a personal, display-only proj
 
 ## Why this matters to me.
 
-Started as a fix for my own annoyance, but honestly, this should just be a built-in feature. Abbott adding lock-screen and watch support would save a lot of people the trouble of building their own workaround.
+Started as a fix for my own needs, but honestly, this should just be a built-in feature. Abbott adding lock-screen and watch support would save a lot of people the trouble of building their own workaround.
