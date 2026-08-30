@@ -37,7 +37,7 @@ load_dotenv()
 LLU_EMAIL = os.environ["LLU_EMAIL"]       
 LLU_PASSWORD = os.environ["LLU_PASSWORD"]  
 REGION = "eu"
-API_VERSION = "4.12.0"
+API_VERSION = "4.16.0"
 UNIT = "mmol" #Change to mg/dl if that's what you prefer.
 LOW_LIMIT = 3.9          # (mmol/L)
 HIGH_LIMIT = 10.0        # (mmol/L)
