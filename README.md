@@ -36,7 +36,7 @@ LLU_PASSWORD=your-password
 
 5. Run it:
 ```bash
-   python "Glukose app.py"
+   python "Glucose app.py"
 ```
 
 ## ⚠️ Disclaimer
