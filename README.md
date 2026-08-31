@@ -7,7 +7,7 @@ A lightweight tool that pulls live glucose data from a FreeStyle Libre 3+ sensor
 Built for myself as a Type 1 diabetic tired of checking my phone up to 70 times a day to see my glucose readings.
 
 ![screenshot](screenshot.png)
-*Sample reading shown for demonstration. NOT a real glucose value.*
+*Sample reading shown for demonstration. NOT a real glucose value. Code shown is an unrelated placeholder. *
 
 ## How it works
 
